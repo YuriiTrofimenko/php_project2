@@ -31,8 +31,6 @@ if(isset($_GET['page']))
 		}
 	}
 }
-
-
 ?>
 
 <!DOCTYPE html>

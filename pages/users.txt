@@ -11,3 +11,4 @@ login100:61bd60c60d9fb60cc8fc7767669d40a1:test@test.test
 login101:61bd60c60d9fb60cc8fc7767669d40a1:test@test.test3
 login102:61bd60c60d9fb60cc8fc7767669d40a1:test@test.test200
 nAa666:435553c16edfbb55e6a4436ce800ab54:naa@mail.ru
+login2000:61bd60c60d9fb60cc8fc7767669d40a1:test@test.test2
